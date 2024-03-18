@@ -1,0 +1,6 @@
+#!/bin/bash
+
+
+(cd fluid && ./Allclean)
+
+rm -rf precice-run
